@@ -1,0 +1,20 @@
+npm init
+npm i express
+npm i -g nodemon
+npm i -D nodemon
+
+module.exports = person;
+const path = require('path');
+const myFile = require('./myFile');
+node --version
+npm --version
+npm install -g npm
+
+Not available in node yet:
+import Person from '/person'
+
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+npm run dev
